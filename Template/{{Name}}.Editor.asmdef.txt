@@ -9,13 +9,17 @@
         "Unity.Collections",
         "Unity.Mathematics",
         "{{Name}}.Runtime",
-        "ALINE"
+        "ALINE",
+        "BovineLabs.Core",
+        "BovineLabs.Core.Authoring",
+        "BovineLabs.Core.Extensions",
+        "BovineLabs.Core.Extensions.Authoring"
     ],
     "includePlatforms": [
         "Editor"
     ],
     "excludePlatforms": [],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": false,
